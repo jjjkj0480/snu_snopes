@@ -109,30 +109,6 @@ def get_articles_of_keyword(keyword, data):
             articles.append(article)
     return articles
 
-def show_verasity_distritubtion(data):
-    v_distribution = []
-    for v in verasities:
-        v_distribution.append([v,0])
-
-    for article in data:
-        for v in v_distribution:
-            if(article[4] == v[0]):
-                v[1] = v[1]+1
-
-    print(v_distribution)
-
-
-def show_category_distribution(articles):
-    c_distribution = []
-    for c in categories:
-        c_distribution.append([c,0])
-
-    for article in data:
-        for c in c_distribution:
-            if(c[0] in article[5]):
-                c[1] = c[1]+1
-
-    print(c_distribution)
 
 def show_contents(articles):
     for article in articles:
@@ -145,6 +121,30 @@ def show_contents(articles):
         print("Claim: " + claim)
         print("Fact Check: " + verasity)
         print("-------------------------")
+
+def show_by_verasity(data):
+    print("-- For all articles from 2016 ~ 2018 --")
+    for i in verasities:
+        temp = 0
+        for article in data:
+            if(i == article[4]):
+                temp = temp + 1
+        if(i == ""):
+            print("No Value (\" \"): "+ str(temp))
+        else:
+            print(i + ": " + str(temp))
+
+def show_by_category(data):
+    print("-- For all articles from 2016 ~ 2018 --")
+    for i in categories:
+        temp = 0
+        for article in data:
+            if(i in article[5]):
+                temp = temp + 1
+        if(i == ""):
+            print("No Value (\" \"): "+ str(temp))
+        else:
+            print(i + ": " + str(temp))
 
 def calculate_statistics(crime):
     """
@@ -238,13 +238,29 @@ def create_histogram(crime):
 
 
 if __name__ == '__main__':
+    
+    # Trim data for usage
     data = import_data(my_file)
     headings = seperate_headings_from_data(data)
-    data2016 = get_articles_of_2016(data)
+
+    # Display For PoliSci Paper
+
+    print(len(data)) # 총 기사 개수
+    print(len(verasities)) # veracity 개수
+    print(len(categories)) # category 개수
+ 
+    show_by_category(data) # 그림1
+    show_by_verasity(data) # 그림2
+    data_politics = get_articles_of_category("politics", data)
+    show_by_verasity(data_politics) # 그림3
+
+    # 연도별 데이터
+    data2016 = get_articles_of_2016(data) # Data 오염 상 1970으로 지정된 2017년 이전의 데이터 고려 (snopes.csv 참고)
     data2017 = get_articles_of_2017(data)
     data2018 = get_articles_of_2018(data)
-    show_category_distribution(data2018)
-    show_verasity_distritubtion(data2018)
+
     trump = get_articles_of_keyword("Trump", data2016)
     trump_politics = get_articles_of_category("politics", trump)
     show_contents(trump_politics)
+    
+    
