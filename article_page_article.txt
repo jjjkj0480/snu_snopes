@@ -1,0 +1,108 @@
+<article class="post-173243 fact_check type-fact_check status-publish has-post-thumbnail hentry tag-christmas fact_check_category-junk-news fact_check_rating-false">
+<header class="post-header-card post-card card">
+<nav aria-label="breadcrumb" class="breadcrumbs">
+<ol class="breadcrumb">
+<li class="breadcrumb-item"><a href="https://www.snopes.com/fact-check/">Fact Check</a></li>
+<li class="breadcrumb-item"><a href="https://www.snopes.com/fact-check/category/junk-news/">Junk News</a></li>
+</ol>
+</nav>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.snopes.com\/fact-check\/","name":"Fact Check"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.snopes.com\/fact-check\/category\/junk-news\/","name":"Junk News"}}]}</script>
+<div class="card-body">
+<h1 class="heading">Did TBS Cancel Their ‘Christmas Story’ Marathon Due to Its Bullying Scene?</h1>
+<h2 class="subheading">The classic 1983 holiday film about the adventures of Ralphie Parker famously contains a confrontation with bully Scut Farkus.</h2>
+<div class="byline">
+<span class="prefix">By</span> <a class="author" href="https://www.snopes.com/author/bethania/">Bethania Palma</a>
+</div>
+<div class="post-dates">
+<span class="date"><span class="prefix">Published</span> <span class="date-published">28 November 2018</span></span>
+</div>
+</div>
+<figure>
+<div class="featured-asset featured-image">
+<img alt="" class="bg-image" data-lazy-sizes="(min-width: 1136px) 810px, 100vw" data-lazy-src="https://www.snopes.com/tachyon/2018/11/xmasstory.jpg?resize=865,452" data-lazy-srcset="https://www.snopes.com/tachyon/2018/11/xmasstory.jpg?resize=80,80&amp;quality=65 80w,https://www.snopes.com/tachyon/2018/11/xmasstory.jpg?resize=180,180&amp;quality=65 180w,https://www.snopes.com/tachyon/2018/11/xmasstory.jpg?resize=375,211&amp;quality=65 375w,https://www.snopes.com/tachyon/2018/11/xmasstory.jpg?resize=416,234&amp;quality=65 416w,https://www.snopes.com/tachyon/2018/11/xmasstory.jpg?resize=542,305&amp;quality=65 542w,https://www.snopes.com/tachyon/2018/11/xmasstory.jpg?resize=733,412&amp;quality=65 733w,https://www.snopes.com/tachyon/2018/11/xmasstory.jpg?resize=865,452&amp;quality=65 865w,https://www.snopes.com/tachyon/2018/11/xmasstory.jpg?resize=1200,630&amp;quality=65 1200w" src="https://www.snopes.com/content/themes/snopes/dist/images/lazyload-placeholder.png"/>
+</div>
+</figure>
+<nav class="share-links social-buttons nav">
+<a class="nav-item btn-round socialShare-link" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.snopes.com%2Ffact-check%2Fchristmas-story-marathon-tbs%2F" target="_blank"><i class="fab fa-facebook-f"></i></a>
+<a class="nav-item btn-round socialShare-link" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.snopes.com%2Ffact-check%2Fchristmas-story-marathon-tbs%2F&amp;text=Did%20TBS%20Cancel%20Their%20%26%238216%3BChristmas%20Story%26%238217%3B%20Marathon%20Due%20to%20Its%20Bullying%20Scene%3F&amp;via=snopes&amp;hashtags=" target="_blank"><i class="fab fa-twitter"></i></a>
+<a class="nav-item btn-round socialShare-link" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.snopes.com%2Ffact-check%2Fchristmas-story-marathon-tbs%2F" target="_blank"><i class="fab fa-pinterest"></i></a>
+<a class="nav-item btn-round socialShare-link" href="https://reddit.com/submit?url=https%3A%2F%2Fwww.snopes.com%2Ffact-check%2Fchristmas-story-marathon-tbs%2F&amp;title=Did%20TBS%20Cancel%20Their%20%26%238216%3BChristmas%20Story%26%238217%3B%20Marathon%20Due%20to%20Its%20Bullying%20Scene%3F" target="_blank"><i class="fab fa-reddit-alien"></i></a>
+<a class="nav-item btn-round socialShare-link" href="mailto:?subject=Did%20TBS%20Cancel%20Their%20%26%238216%3BChristmas%20Story%26%238217%3B%20Marathon%20Due%20to%20Its%20Bullying%20Scene%3F&amp;body=https%3A%2F%2Fwww.snopes.com%2Ffact-check%2Fchristmas-story-marathon-tbs%2F" target="_blank"><i class="fas fa-envelope"></i></a>
+</nav>
+</header>
+<div class="creative">
+<div id="post-featured-1">
+<script data-cfasync="false" type="text/javascript">
+			freestar.queue.push(function () { googletag.display('post-featured-1'); });
+		</script>
+</div>
+</div>
+<div class="snopes-bt">
+<span class="bt-uid-tg" data-uid="5b22ddfa64-186" style="display: none !important"></span>
+</div>
+<div class="claim-card post-card card">
+<div class="card-header">
+<h3 class="title">Claim</h3>
+</div>
+<div class="card-body">
+<p class="claim">TBS canceled a planned marathon of "A Christmas Story" due to the film's bullying scene.</p>
+</div>
+</div>
+<div class="rating-card post-card card">
+<div class="card-header">
+<h3 class="title">Rating</h3>
+</div>
+<div class="rating card-body">
+<div class="rating-wrapper">
+<a class="rating-link" href="https://www.snopes.com/fact-check/rating/false/" target="_blank"><img alt="" class="rating-icon" src="https://www.snopes.com/tachyon/2018/03/rating-false.png"/></a>
+<div class="rating-text">
+<span class="rating-name rating-label-false">False</span>
+<a class="rating-link" href="https://www.snopes.com/fact-check/rating/false/" target="_blank">About this rating <i class="fas fa-angle-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post-body-card post-card card">
+<div class="card-header">
+<h3 class="title">Origin</h3>
+</div>
+<div class="card-body">
+<p>Ralphie Parker’s confrontation with neighborhood bully Scut Farkus in the classic 1983 holiday film <em>A Christmas Story</em> did not cause the TBS network to cancel their yearly marathon showing of the movie, but a social media rumor caused some viewers to fear that Christmas wouldn’t be the same without it.</p>
+<p>The rumor was apparently started by a meme appearing to represent an article from “MomusFeed News,” which was mocked up to resemble the style of the digital publication <a href="https://www.buzzfeednews.com/" rel="noopener" target="_blank">BuzzFeed News</a>:</p>
+<p><a href="https://www.snopes.com/tachyon/2018/11/christmas-story.jpg"><img alt="" class="aligncenter wp-image-173257 size-full" data-lazy-sizes="(max-width: 449px) 100vw, 449px" data-lazy-src="https://www.snopes.com/tachyon/2018/11/christmas-story.jpg?resize=449,454" data-lazy-srcset="https://www.snopes.com/tachyon/2018/11/christmas-story.jpg?w=449 449w, https://www.snopes.com/tachyon/2018/11/christmas-story.jpg?resize=80,80 80w" data-recalc-dims="1" src="https://www.snopes.com/content/themes/snopes/dist/images/lazyload-placeholder.png"/><noscript><img alt="" class="aligncenter wp-image-173257 size-full" data-recalc-dims="1" sizes="(max-width: 449px) 100vw, 449px" src="https://www.snopes.com/tachyon/2018/11/christmas-story.jpg?resize=449,454" srcset="https://www.snopes.com/tachyon/2018/11/christmas-story.jpg?w=449 449w, https://www.snopes.com/tachyon/2018/11/christmas-story.jpg?resize=80,80 80w"/></noscript></a></p>
+<p>We confirmed with a TBS representative that the network would not canceling their holiday marathon airing of the beloved movie. The rumor appeared to be nothing more than a social media hoax.</p><div class="creative">
+<div id="post-body-1">
+<script data-cfasync="false" type="text/javascript">
+			freestar.queue.push(function () { googletag.display('post-body-1'); });
+		</script>
+</div>
+</div>
+<p>In the film, which is set in the 1940s, a grown Ralphie Park narrates his memory of a Christmas from his childhood, which included the antics of his little brother Randy and his parents. <em>A Christmas Story</em> has become an enduring cinematic favorite, likely due to its quirky comedy and memorable scenes, one of the most famous of which depicts Ralphie’s hapless encounter with a beleaguered mall Santa.</p>
+<p></p><center><iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/IQM_kWxrJNI" width="560"></iframe></center>
+<p>Throughout the film, adolescent bully Scut Farkus and his sidekick Grover Dill torment the neighborhood children, which culminates in Ralphie’s tackling him and giving him a bloody nose. In 2016, a now-grown Zack Ward, the actor who portrayed Farkus, gave a lighthearted take on how to “bully proof” a child for the holidays:</p>
+<p></p><center><iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PdWQGY7dE1g" width="560"></iframe></center>
+<p>Fans of the movie will get to watch Ralphie’s father obsess over his prize fishnet stocking-adorned <a href="https://www.youtube.com/watch?v=lR29zxrY2LM" rel="noopener" target="_blank">leg lamp</a> starting at 7 P.M. Central Time on Christmas Eve on TBS. The movie marathon will run throughout Christmas day.</p>
+<div class="list-section">
+<div class="card-header">
+<h5 class="post-label">Sources</h5>
+</div>
+<ul class="sources post-list">
+<li class="post-list-item">
+<p>Bell, Amanda.   “How to Watch ‘A Christmas Story.'”<br/>
+    <em>TV Guide</em>.   19 November 2018.</p>
+</li>
+</ul>
+</div>
+<div class="byline">
+<span class="prefix">By</span> <a class="author" href="https://www.snopes.com/author/bethania/">Bethania Palma</a>
+</div>
+<div class="post-dates">
+<span class="date"><span class="prefix">Published</span> <span class="date-published">28 November 2018</span></span>
+</div>
+<div class="post-tags">
+<span class="prefix">Filed Under</span>
+<a class="" href="https://www.snopes.com/tag/christmas/">christmas</a>
+</div>
+</div>
+</div>
+</article>
