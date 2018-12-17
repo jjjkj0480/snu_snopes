@@ -229,8 +229,8 @@ if __name__ == '__main__':
     print("Hillary Clinton")
     show_by_verasity(clinton)
     
-    file_t = open("text_t.txt", "w")
-    write_contents(trump, file_t) # trump text creation
-    file_c = open("text_c.txt", "w")
-    write_contents(clinton, file_c) # clinton text creation
+    #file_t = open("text_t.txt", "w")
+    #write_contents(trump, file_t) # trump text creation
+    #file_c = open("text_c.txt", "w")
+    #write_contents(clinton, file_c) # clinton text creation
     
